@@ -1,0 +1,4 @@
+name: ISchlepp
+version: ${project.version}
+main: xyz.norakthes.ischlepp.ISchlepp
+api-version: 1.16
